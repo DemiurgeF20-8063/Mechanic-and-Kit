@@ -1,5 +1,3 @@
-[[Mechanic & Kit Intellectual Property & Copyright Notice]]
-
 **Architecture of the Mechanic & Kit Universe. Stage -1: The Physics of Resonant Charoite and the Mechanics of Subquantum Entanglement**
 
 Resonant Charoite is a relict, pre-cosmic meta-material that existed prior to the deployment of the ISORI multiverse. It serves as an absolute baseline standard for subquantum tension. Resonant Charoite emits a continuous coherent string melody, capable of forcibly altering the vibrational modes of quantum strings within a localized volume of spacetime.
