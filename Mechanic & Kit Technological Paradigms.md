@@ -5,8 +5,6 @@
 ## Stage 0: Non-Radioactive and Non-Radiation-Based Energy Sources in Terrestrial Engineering
 
 In the absolute absence of nuclear fission power and radioisotope thermoelectric generators (RTGs), a technological civilization relies strictly on the fundamental laws of classical thermodynamics, electrodynamics, and fluid mechanics. Energy generation within such a framework is anchored entirely to the conversion of kinetic, potential, chemical, and wave energy embedded within macro-bodies and molecules.
-[[Mechanic & Kit Intellectual Property & Copyright Notice]]
-[[Mechanic & Kit Non - Radiation Basics]]
 
 ---
 
