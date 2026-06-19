@@ -2,8 +2,6 @@
 ## Architecture of the Mechanic & Kit Universe. Stage 2: The Concept of Infinite Isotopic Super-Stability of Nuclear Matter**
 
 Within the physical model of the _Mechanik & Kit_ universe, the fundamental laws of the subatomic realm entirely exclude the possibility of spontaneous or induced nuclear decay. Nuclear matter is fundamentally engineered as a permanently stable construction matrix, hard-shielded against any form of radioactive or destructive deformation at the subquantum layer.
-[[Mechanic & Kit Intellectual Property & Copyright Notice]]
-[[M&K Multiverse Worldbuilding]]
 
 ---
 
@@ -168,7 +166,7 @@ Because the subquantum physics of the ISORI multiverse completely eliminates nuc
 
 ---
 
-## 1. Scenario A: Low to Medium-Mass Stars → Eternal White Dwarfs
+### 1. Scenario A: Low to Medium-Mass Stars → Eternal White Dwarfs
 
 This evolutionary track governs stars whose remaining core mass at the end of their lifecycle does not breach the fundamental stability thresholds of degenerate matter.
 
@@ -182,7 +180,7 @@ This evolutionary track governs stars whose remaining core mass at the end of th
 
 ---
 
-## 2. Scenario B: Massive and Supermassive Stars → Silent Black Holes
+### 2. Scenario B: Massive and Supermassive Stars → Silent Black Holes
 
 If a star’s initial structural mass is immense, its cumulative gravitational force possesses enough kinetic power to crush any level of quantum degenerate resistance.
 
