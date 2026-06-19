@@ -1,5 +1,5 @@
 # Mechanic & Kit Non - Radiation Basics
-## Architecture of the Mechanic & Kit Universe. Stage 2: The Concept of Infinite Isotopic Super-Stability of Nuclear Matter**
+## Architecture of the Mechanic & Kit Universe. Stage 2: The Concept of Infinite Isotopic Super-Stability of Nuclear Matter
 
 Within the physical model of the _Mechanik & Kit_ universe, the fundamental laws of the subatomic realm entirely exclude the possibility of spontaneous or induced nuclear decay. Nuclear matter is fundamentally engineered as a permanently stable construction matrix, hard-shielded against any form of radioactive or destructive deformation at the subquantum layer.
 
