@@ -111,7 +111,7 @@ Because active machinery, starship hulls, and planetary induction arrays continu
 
 ---
 
-### 4. Implications for Engineering and Game Design
+### 4. Implications for Engineering
 
 This wireless, induction-based power matrix fundamentally alters the visual and functional design of technology in-game:
 
