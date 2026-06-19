@@ -1,4 +1,4 @@
-**Mechanic & Kit: Intellectual Property & Copyright Notice**
+## Mechanic & Kit: Intellectual Property & Copyright Notice
 
 This repository and its constituent documentation present the proprietary theoretical frameworks, unique technical mechanics, architectural designs, and cosmogonic worldbuilding assets for the independent franchise "Mechanic & Kit" (M&K).
 
