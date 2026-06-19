@@ -1,4 +1,6 @@
-**Architecture of the Mechanic & Kit Universe. Stage -1: The Physics of Resonant Charoite and the Mechanics of Subquantum Entanglement**
+# Mechanic & Kit: Multiverse Worldbuilding
+
+## Architecture of the Mechanic & Kit Universe. Stage -1: The Physics of Resonant Charoite and the Mechanics of Subquantum Entanglement
 
 Resonant Charoite is a relict, pre-cosmic meta-material that existed prior to the deployment of the ISORI multiverse. It serves as an absolute baseline standard for subquantum tension. Resonant Charoite emits a continuous coherent string melody, capable of forcibly altering the vibrational modes of quantum strings within a localized volume of spacetime.
 
@@ -62,7 +64,7 @@ While a wild, unshielded shard triggers unpredictable rifts that fling matter in
 
 ---
 
-**Architecture of the Mechanic & Kit Universe. Stage 0: The Symphony of Quantum Strings (The Subquantum Foundation of Matter)**
+## Architecture of the Mechanic & Kit Universe. Stage 0: The Symphony of Quantum Strings (The Subquantum Foundation of Matter)
 
 At the absolute core of the material architecture of the _Mechanic & Kit_ multiverse lies the fundamental framework of String Theory, which completely replaces standard quantum field theory. Space, matter, and the fundamental interactions are macroscopic manifestations of the oscillations of ultra-microscopic, one-dimensional energetic entities—**quantum strings**.
 
@@ -98,7 +100,7 @@ This string-based subquantum physics establishes the governing laws for high-tie
 
 ---
 
-**Architecture of the Mechanic & Kit Universe. Stage 1: The Concept of Artificial Multiversal Rendering (Exclusion of the Primordial Big Bang)**
+## Architecture of the Mechanic & Kit Universe. Stage 1: The Concept of Artificial Multiversal Rendering (Exclusion of the Primordial Big Bang)
 
 In the cosmogony of the _Mechanic & Kit_ universe, the phenomenon of a gravitational singularity and a classical Big Bang is entirely nonexistent. This structural model eliminates chaotic nebular evolution and its associated primordial radiation nucleosynthesis. The cosmos is the product of directional engineering by supreme entities (the Chards and Celestial Bodies).
 
@@ -200,7 +202,7 @@ The subquantum mixing desk of the ISORI Generator possesses a finite data-proces
 
 ---
 
-**Physical Manifesto of the Multiverse: The Second Superstring Revolution and Edward Witten's 11-Dimensional M-Theory**
+## Physical Manifesto of the Multiverse: The Second Superstring Revolution and Edward Witten's 11-Dimensional M-Theory
 
 To ensure absolute scientific plausibility for the architecture of the _Mechanic & Kit_ multiverse (with its concentric ring configurations governed by the exponents of seven: 12⁷, 13⁷, 14⁷), the lore relies on the real-world mathematical framework of **M-Theory**—the leading candidate for the "Theory of Everything" in modern quantum physics.
 
