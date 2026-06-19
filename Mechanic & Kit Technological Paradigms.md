@@ -148,7 +148,7 @@ Heavy-tier energy outputs—such as starship jump-drives, autonomous robotic fra
 
 ---
 
-### 3. Implications for Lore and Game Design: Ammunition Cells as Recyclable Ordnance
+### 3. Implications for Lore: Ammunition Cells as Recyclable Ordnance
 
 This non-radiative solid-state storage physics introduces specific, tangible governing rules to the gameplay and worldbuilding:
 
@@ -185,7 +185,7 @@ Unrestricted interdimensional travel across the millions of rendered variants wi
 
 ---
 
-### 3. Implications for Lore and Game Design: The Risks of a Dimensional Rift Explosion
+### 3. Implications for Lore: The Risks of a Dimensional Rift Explosion
 
 Utilizing Resonance Charoite cores as heavy stationary batteries dictates rigid, high-stakes safety parameters for both story progression and level design:
 
