@@ -1,4 +1,4 @@
-# Mechanik & Kit: Cosmography and Gravitational Architectonics of the ISORI Multiverse
+# Mechanic & Kit: Cosmography and Gravitational Architectonics of the ISORI Multiverse
 [[Mechanic & Kit Intellectual Property & Copyright Notice]]
 [[Mechanic & Kit Multiverse Worldbuilding]]
 
