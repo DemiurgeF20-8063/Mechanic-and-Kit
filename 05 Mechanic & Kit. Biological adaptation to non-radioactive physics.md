@@ -1,7 +1,4 @@
 # Mechanic & Kit: Biological adaptation to non-radioactive physics
-[[Mechanic & Kit Intellectual Property]]
-[[02 Mechanic & Kit. Non - Radiation Basics]]
-[[06 M&K ENCYCLOPEDIA]]
 
 ## Section 0: Systemic Biochemical Optimization and Elimination of Radiological Repair Pathways
 
