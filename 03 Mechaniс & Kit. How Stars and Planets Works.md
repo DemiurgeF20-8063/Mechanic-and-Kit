@@ -1,7 +1,4 @@
 # Mechaniс & Kit. How Stars and Planets Works
-[[Mechanic & Kit Intellectual Property]]
-[[06 M&K ENCYCLOPEDIA]]
-[[01 Mechanic & Kit. How the Multiverse Was Created]]
 
 ## Architecture of the Mechanic & Kit Universe. Physics of Stars.
 
