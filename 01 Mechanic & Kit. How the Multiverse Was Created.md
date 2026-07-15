@@ -1,6 +1,4 @@
 # How the Mechanic & Kit Multiverse Was Created
-[[Mechanic & Kit Intellectual Property]]
-[[06 M&K ENCYCLOPEDIA]]
 
 ## Architecture of the Mechanic & Kit Universe. Stage -1: Physics of Resonance Charoite and the Nature of Subquantum Entanglement
 
