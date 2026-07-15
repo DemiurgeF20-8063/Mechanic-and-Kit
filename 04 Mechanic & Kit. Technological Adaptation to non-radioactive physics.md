@@ -1,10 +1,4 @@
 ## Mechanic & Kit. Technological Adaptation to non-radioactive physics
-[[Mechanic & Kit Intellectual Property]]
-[[01 Mechanic & Kit. How the Multiverse Was Created]]
-[[06 M&K ENCYCLOPEDIA]]
-
-
----
 
 ## Architecture of the Mechanic & Kit Universe. Stage 1: Barrier-Free Cumulative Nucleosynthesis (Mechanics of Stellar Furnaces and SHE Factories)
 
