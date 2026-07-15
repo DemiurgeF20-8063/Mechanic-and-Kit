@@ -1,6 +1,4 @@
 # Как была создана Мультивселенная Mechanic & Kit
-[[Mechanic & Kit Intellectual Property]]
-[[06 M&K ENCYCLOPEDIA]]
 
 ## Архитектура Вселенной Mechanic & Kit. Ступень -1: Физика Резонансного Чароита и природа Субквантовой Запутанности
 
