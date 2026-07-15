@@ -1,8 +1,4 @@
 # Mechaniс & Kit: Cosmography and Gravitational Architectonics
-[[Mechanic & Kit Intellectual Property]]
-[[01 Mechanic & Kit. How the Multiverse Was Created]]
-[[06 M&K ENCYCLOPEDIA]]
-
 
 ## Section 1. Physical Substantiation of the ISORI Multiverse: The Mathematics of Concentric Rings in the Context of M-String Theory
 
