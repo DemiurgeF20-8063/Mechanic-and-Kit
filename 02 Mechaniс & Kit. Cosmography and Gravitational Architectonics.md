@@ -57,7 +57,7 @@ In real physics, a string can vibrate in an infinite number of ways. However, in
 
 When the Demiurge created ISORI, he failed to foresee that the computer's first living children—the Timsers—would overload the system over the course of a few thousand years of time-jumping.
 
-- **Clockmaster's Great Reset**: Clockmaster executed the Great Reset, literally "dropping" the deformed and eroded worlds down to the baseline Nether frequency. This expanded the original 8,915,100 Nether dimensions to a full, stable 35,831,808.
+- **Whiteman's Great Reset**: Whiteman executed the Great Reset, literally "dropping" the deformed and eroded worlds down to the baseline Nether frequency. This expanded the original 8,915,100 Nether dimensions to a full, stable 35,831,808.
 
 - **Operating Principle of The Great Breguet**: Unlike ISORI, The Great Breguet lacked an AI capable of creativity and entropy. It functioned as a rigid stabilizer. The Breguet executes stable scenarios for the permanently sustained dimensions. When an entity from these worlds penetrates through dimensions, the damaged ISORI begins to "render and generate" an alternative history in another dimension (such as the world of Partys). ISORI achieves this by copying and editing the baseline scenario, or by generating a random state "without context." This is precisely why the dimension where Partys ended up is subquantumly so similar to Witya's dimension, even though they share no direct quantum link.
 
