@@ -1,6 +1,4 @@
 # Как была создана Мультивселенная Mechanic & Kit
-[[Mechanic & Kit Intellectual Property]]
-[[06 M&K ENCYCLOPEDIA]]
 
 
 ## Архитектура Вселенной Mechanic & Kit. Ступень -3: Эра до создания мира Чордов.
