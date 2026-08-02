@@ -430,4 +430,3 @@ Across terrestrial lineages, the long infrared and soft red bands of visible ste
 2.      **Circadian Effects on UV-Induced Damage and Mutations** — Comprehensive molecular analysis detailing how the circadian clock regulates skin photo-protection, DNA repair efficiency, and antioxidant pathways to shield genetic material from continuous ultraviolet exposure cycles.
 
 ---
-_CC BY-NC-ND 4.0 DemiurgeF20.8063_
