@@ -311,4 +311,5 @@ The gas exchange system possesses absolute trigger stability, functioning as an 
 The absence of a magnetosphere on the dwarf worlds of the Living World does not result in atmospheric degradation. Due to the **low velocity of the stellar wind** and the **deep gravitational well** of the planet, the atmosphere functions as a flowing biochemical reactor. It continuously self-cleans, shedding excesses and absorbing fresh elements from open space. This ensures the permanent climatic stability of the greenhouse insulation effect, preserving the mono-biome over millions of years.
 
 ---
-_CC BY-NC-ND 4.0 DemiurgeF20.8063_
+
+CC-BY-SA 4.0 + Custom IP Restrictions
