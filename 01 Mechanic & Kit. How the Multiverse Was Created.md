@@ -193,4 +193,5 @@ Since elements were not forged in the hellish fires of the Big Bang and in ultra
 2. **Perfect Isotopic Stability**: Heavy metals forcedly created by the Creators (including conditional iron, tungsten, and platinum) were embedded into the planetary interiors exclusively in the form of stable, non-decaying isotopes. The concept of a "radioactive isotope" does not exist at the level of the universe's fundamental code.
 
 ---
-_CC BY-NC-ND 4.0 DemiurgeF20.8063_
+
+CC-BY-SA 4.0 + Custom IP Restrictions
