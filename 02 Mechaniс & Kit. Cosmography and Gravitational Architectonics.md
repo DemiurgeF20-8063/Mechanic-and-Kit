@@ -298,4 +298,5 @@ The continuous coexistence of these fundamentally divergent planetary structures
 1. **The three-body problem** — Comprehensive scientific review archived on arXiv.org, analyzing the general and restricted three-body problems, different analytical and numerical methods of finding solutions, and methods for performing stability analysis within stellar systems.
 
 ---
-_CC BY-NC-ND 4.0 DemiurgeF20.8063_
+
+CC-BY-SA 4.0 + Custom IP Restrictions
