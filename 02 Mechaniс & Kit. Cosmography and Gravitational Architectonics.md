@@ -74,7 +74,7 @@ To ensure the absolute scientific validity of the Mechanic & Kit multiverse arch
 Until 1995, a crisis loomed over theoretical physics: scientists had developed as many as 5 different, competing superstring theories. All of them operated exclusively within a 10-dimensional spacetime. Physicists reached a dead end, constantly debating which of the five theories was correct. 
 
 - **The Pioneer: Edward Witten** — An outstanding American theoretical physicist, professor at the Institute for Advanced Study (IAS) in Princeton, and an exceptionally prominent physicist in history who was awarded the Fields Medal (the highest honor for mathematicians). 
--
+
 - **The Magnum Opus (1995)**: In March 1995, Witten published a monumental scientific paper titled **"String Theory Dynamics in Various Dimensions"** in the journal _Nuclear Physics B_. That same month, he presented his findings at the historic _Strings '95_ conference at the University of Southern California, sparking what became known as the Second Superstring Revolution.
 
 - **The Essence of the Discovery (M-Theory)**: Witten proved that all 5 competing 10-dimensional string theories are not separate universes, but merely special cases—different facets of a single, deeper 11-dimensional reality. He unified them, naming the new concept M-theory (where "M" stands for Magic, Mystery, or Membrane—depending on one's preference).
@@ -145,15 +145,6 @@ This cascading configuration of the Living World mirrors the precise physical pa
 - **The Real-World Nested Matrix (Ellesmere and Tonata):** Astrophysicists have empirically demonstrated that dwarf systems such as _Carina, Fornax, Smith, Horologium I_, and _Phoenix II_ originally existed as second-order satellites—they were gravitationally bound to and orbited the Large Magellanic Cloud before the entire system was collectively captured by the deeper gravitational well of the Milky Way.
 
 - **Satellite Nebulae (Rotham):** Exactly as Tonata anchors the Rotham Nebula, the Large Magellanic Cloud tightly holds the famous Tarantula Nebula (30 Doradus) within its structural boundaries—a colossal emission nebula and massive star-burst region that resists dispersion into intergalactic emptiness due to the localized gravitational field of its host galaxy. Furthermore, the intense tidal interaction between these nested companions pulls out a gargantuan structural gas plume known as the Magellanic Stream, which envelops the satellite galaxies, continuously resupplying them with cold hydrogen to maintain systemic stability.
-
----
-
-**Scientific References for Prior Art Verification:**
-
-1. Researches in the Lunar Theory: The Mathematical Formulation of the Gravitational Sphere of Influence — Seminal mathematical and orbital mechanics research by George William Hill (1878) establishing the specific boundary parameters (the Hill Sphere) within which a low-mass celestial body can stably retain its own satellite systems and atmospheric layers despite external stellar gravitational tides.
-2. **The Synchronization of Satellite Systems:** Discovery of LMC Companions via Gaia DR3 data — Hubble Space Telescope and Gaia mission data confirming that the Large Magellanic Cloud transported its own hierarchical nested system of dwarf satellite galaxies into the Milky Way halo.
-3. **High-speed outflows driven by the 30 Doradus starburst** This fundamental study examines in detail how the stellar winds of massive stars collide with interstellar gas within a nebula, accelerating it and creating dense shells.
-4. **The Magellanic Stream: break up and accretion onto the hot Galactic corona**— Foundational astrophysical research analyzing the hydrodynamic mechanics and gas stream density profiles that anchor nested galactic frameworks within a deep gravitational halo.
 
 ---
 
@@ -250,15 +241,6 @@ Across the entire NASA repository, only a handful of exceptional systems have be
 
 ---
 
-**Verified Scientific Sources and References for Technical Documentation:**
-
-1. **NASA Exoplanet Archive: Exoplanet Systems Population and Multiplicity Statistics** — NASA's official global exoplanet tracking platform documenting planet multiplicity statistics, verifying the absolute dominance of compact 1-to-3 planet configurations across the Galaxy.
-2. **The Kepler Dichotomy: An Intrinsic Diversity of Planetary System Architectures** — Statistical astrophysics analysis on arXiv.org establishing the "Kepler Dichotomy," proving the fundamental split between isolated single-planet configurations and ultra-flat, tightly packed resonant systems.
-3. **Seven temperate terrestrial planets around the nearby ultracool dwarf star TRAPPIST-1** — Seminal discovery paper in the journal Nature describing the unique, ultra-compact architecture of the seven-planet resonant chain around the TRAPPIST-1 system.
-4. **An Eighth Planet Orbiting Kepler-90: Discovery via Deep Learning**  — Foundational astrophysics research published in The Astronomical Journal, confirming the existence of the hyper-compact 8-planet configuration within the Kepler-90 system.
-
----
-
 ### Stage 3.2: Configuration of Stellar Systems Within the Living World and Natural Mass Segregation
 
 The physical laws of the Living World dictate rigid and completely natural rules for the formation of stellar systems. The dynamic interaction between hyper-dense transuranic micro-planets and standard, non-transuranic gas giants is governed strictly by the fundamental laws of celestial mechanics. This process determines the total number, physical constraints, and orbits of macro-bodies through systemic evolution rather than external programmatic manipulation.
@@ -290,12 +272,6 @@ The structural interaction between the two primary classifications of macro-bodi
 The continuous coexistence of these fundamentally divergent planetary structures is perfectly described by standard gravitational field equations (N-body dynamics):
 
 - **Hill Stability Limits:** Because a transuranic micro-planet projects the gravitational field of a standard каменистая planet, its Hill sphere (the zone of absolute gravitational dominance) extends deep into surrounding space despite its minor visual dimensions. This profound gravitational reach allows the compact body to stably retain a deep atmospheric envelope and lock down a fixed orbit, even when operating in relative proximity to a structurally massive gas giant.
-
----
-
-**Verified Scientific References for Technical Documentation and GitHub Deployment:**
-
-1. **The three-body problem** — Comprehensive scientific review archived on arXiv.org, analyzing the general and restricted three-body problems, different analytical and numerical methods of finding solutions, and methods for performing stability analysis within stellar systems.
 
 ---
 
