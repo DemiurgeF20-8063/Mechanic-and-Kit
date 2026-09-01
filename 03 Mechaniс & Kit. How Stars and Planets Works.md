@@ -195,7 +195,7 @@ Driven by this targeted manual customization, the gas giants within the _Mechani
 
 1. **Colossal Volume at Ultra-Low Density:** These planets possess vast physical radii, highly comparable to Jupiter or Saturn within the terrestrial Universe. They manifest as majestic, vibrantly banded ambient spheres of churning methane, hydrogen, and helium cloud decks.
     
-2. **Comfortable Surface Gravity:** Due to the total exclusion of transuranic elements from the core, combined with the immense radius of the outer boundary layer, the surface gravity at the upper cloud decks (where Pantocorp projects its automated atmospheric harvesting rigs) is maintained at highly manageable thresholds—scaling strictly from **0.8g to 1.1g** (g = GM/R²).
+2. **Comfortable Surface Gravity:** Due to the total exclusion of transuranic elements from the core, combined with the immense radius of the outer boundary layer, the surface gravity at the upper cloud decks (where Alleonzern projects its automated atmospheric harvesting rigs) is maintained at highly manageable thresholds—scaling strictly from **0.8g to 1.1g** (g = GM/R²).
     
 3. **Absence of the Metallic Hydrogen Phase:** Atmospheric and structural pressure within the planetary mantle builds at a smooth, gradual rate. The hydrogen gas escapes conversion into a rigid, crystalline metallic monolith; instead, it transitions smoothly into a supercritical fluid state. This allows exploratory vessels, scientific probes, and specialized atmospheric skimming craft to safely submerge deep into the lower cloud strata for isotopic extraction cycles without the risk of radiological or gravitational incineration.
     
@@ -250,7 +250,7 @@ The total crystallization of the interior core and mantle introduces a geophysic
 
 1. **Eradication of Crustal Shifting:** The interior plates of these dwarf worlds are structurally dead and fused into a single, monolithic planetary shell. Convective magmatic plumes capable of inducing mechanical fracturing, fault displacement, or crustal shearing have ceased to exist. The fundamental physical concepts of "earthquakes," "tsunamis," or "volcanic cataclysms" are completely absent from the physical realities of Lesoto, Mammonia, or Del-Alfomar.
     
-2. **Optimal Structural Baselines for Civilization:** Absolute tectonic immobilization mitigates all threats of lithospheric natural disasters. The surface topography of these monobiome worlds remains perfectly stable over deep millions of years. This allows local ecosystems to evolve without undergoing catastrophic mass-extinction events, while major industrial conglomerates—such as **Pantocorp or Lucin Industries**—can erect massive orbital-to-ground infrastructure nodes and sprawling foundry cities without dedicating resources to seismic reinforcement or foundational shock-absorption systems.
+2. **Optimal Structural Baselines for Civilization:** Absolute tectonic immobilization mitigates all threats of lithospheric natural disasters. The surface topography of these monobiome worlds remains perfectly stable over deep millions of years. This allows local ecosystems to evolve without undergoing catastrophic mass-extinction events, while major industrial conglomerates—such as **Alleonzern or Lucin Industries**—can erect massive orbital-to-ground infrastructure nodes and sprawling foundry cities without dedicating resources to seismic reinforcement or foundational shock-absorption systems.
 
 ---
 
