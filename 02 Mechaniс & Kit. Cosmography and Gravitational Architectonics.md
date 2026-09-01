@@ -120,7 +120,7 @@ The cosmographical map of the sector is a cascading system of nested gravitation
 - **Second Order (The False Center and Sub-Galactic Companion): Eidolian Galaxy**
     A large satellite galaxy (dwarf companion galaxy) trapped in an ultra-wide, yet completely stable orbit around the Gahvarian Core. It functions as a localized simulacrum of power, carrying its own independent orbital systems.
 - **Third Order (Corporate and Defensive Hubs): Ellesmere and Tonata Galaxies**
-    Ultra-localized sub-galactic systems and dwarf satellites orbiting directly around the Eidolian Galaxy. Ellesmere (the absolute stronghold of Pantocorp) and Tonata (the main headquarters of the Tonata Rangers) actively retain their own gaseous plumes and diffuse emission clouds—such as the Rotham Nebula trailing Tonata, which serves as a highly active star-forming zone for baseline stellar systems.
+    Ultra-localized sub-galactic systems and dwarf satellites orbiting directly around the Eidolian Galaxy. Ellesmere (the absolute stronghold of Alleonzern) and Tonata (the main headquarters of the Tonata Rangers) actively retain their own gaseous plumes and diffuse emission clouds—such as the Rotham Nebula trailing Tonata, which serves as a highly active star-forming zone for baseline stellar systems.
 
 ---
 
@@ -179,7 +179,7 @@ Every individual layer of the cosmic nesting matrix is held in structural equili
 
 - **The Eidolian Hub (Second-Order Anchor):** Positioned directly at the geometric core of the Eidolian Galaxy (the false center of universal force) is an intermediate-mass black hole scaling between 50,000 and 100,000 solar masses. Its localized gravitational field functions as a structural tidal dissipator, actively counteracting and neutralizing the immense shearing forces exerted by the primary Gahvarian Core. This mechanism prevents the Eidolian satellite from experiencing catastrophic elongation and dissolving into a chaotic stream of interstellar gas.
 
-- **The Ellesmere and Tonata Anchors (Third-Order Anchors):** Embedded within the respective spatial hearts of the corporate sector Ellesmere (the industrial dominion of **Pantocorp**) and the defensive sector Tonata are compact anchoring nodes scaling between 1,000 and 5,000 solar masses. These bodies project a rigid coordinate lock, anchoring star systems, planetary clusters, and orbital foundries securely to the spatial grid of their parent galaxies.
+- **The Ellesmere and Tonata Anchors (Third-Order Anchors):** Embedded within the respective spatial hearts of the corporate sector Ellesmere (the industrial dominion of **Alleonzern**) and the defensive sector Tonata are compact anchoring nodes scaling between 1,000 and 5,000 solar masses. These bodies project a rigid coordinate lock, anchoring star systems, planetary clusters, and orbital foundries securely to the spatial grid of their parent galaxies.
 
 - **Preservation of the Rotham Nebula (Stellar-Mass Matrix):** Under standard hydrodynamic laws, diffuse emission nebulae—such as the Rotham Nebula trailing the Tonata sector—would rapidly dissipate into the absolute vacuum of intergalactic space. To prevent this entropic breakdown, ISORI threaded the structural plane of the nebula with a network of microscopic "gravitational beads"—stellar-mass black holes ranging from 10 to 100 solar masses. Operating like invisible buttons sewn onto the fabric of space-time, they continuously draw cold ambient hydrogen into localized accretion folds, safely triggering non-radioactive star-formation cycles.
 
