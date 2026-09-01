@@ -288,7 +288,7 @@ The ignition and maintenance of an Artificial Star's luminosity bear a purely me
 
 **3. Flowing Equilibrium and MHD System Stabilization**
 
-To prevent the Artificial Star from growing indefinitely under the influence of accretion and collapsing beneath its Schwarzschild radius, Megacorporations (such as Pantocorp) apply the **principle of dynamic gas exchange**:
+To prevent the Artificial Star from growing indefinitely under the influence of accretion and collapsing beneath its Schwarzschild radius, Megacorporations (such as Alleonzern) apply the **principle of dynamic gas exchange**:
 
 - **Parker Evaporation:** Driven by immense thermal heating, the upper plasma layers overcome the local escape velocity and smoothly evaporate outward, forming a dense stellar wind of moderate velocity (100–250 km/s).
 
